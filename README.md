@@ -19,13 +19,9 @@ The analysis focuses on understanding how lifestyle habits (sleep, study), emoti
 
 ## Process
 - Collected student data (sleep, study, stress factors).
-
 - Cleaned and organized data for accuracy.
-
 - Analyzed KPIs and patterns.
-
 - Visualized insights using Tableau dashboards.
-
 - Interpreted results to identify depression risk factors.
 
 
