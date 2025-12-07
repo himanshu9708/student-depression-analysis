@@ -9,29 +9,24 @@ The analysis focuses on understanding how lifestyle habits (sleep, study), emoti
 ## Questions(KPIs)
 -Average Sleep Duration (hours)
 
--Average Study Hours per Day
-
--Student Satisfaction Score (1–5)
-
--Academic Pressure Index
-
--Financial Stress Score
-
--Student Count per Category
-
--High-Risk Stress Index (derived metric combining AP + FS + low SD)
+- Average Study Hours per Day
+- Student Satisfaction Score (1–5)
+- Academic Pressure Index
+- Financial Stress Score
+- Student Count per Category
+- High-Risk Stress Index (derived metric combining AP + FS + low SD)
 
 
 ## Process
--Collected student data (sleep, study, stress factors).
+- Collected student data (sleep, study, stress factors).
 
--Cleaned and organized data for accuracy.
+- Cleaned and organized data for accuracy.
 
--Analyzed KPIs and patterns.
+- Analyzed KPIs and patterns.
 
--Visualized insights using Tableau dashboards.
+- Visualized insights using Tableau dashboards.
 
--Interpreted results to identify depression risk factors.
+- Interpreted results to identify depression risk factors.
 
 
 ## Dashboard
